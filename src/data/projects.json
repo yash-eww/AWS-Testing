@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Appliport",
+    "imageSrc": "projects/appliport.png",
+    "description": "Companies can process orders and distribute items more efficiently with the help of a technology called Appliport. It offers worldwide driver and carrier companies and online retailers reasonably priced logistics services. The business uses its state-of-the-art route planning system, live tracking, chat with the driver, and real-time logistics data to maximize delivery.",
+    "skills": [
+      "React JS",
+      "Zustand",
+      "Google Map",
+      "Tailwind",
+      "Axios",
+      "Formik",
+      "Yup",
+      "React-Query"
+    ],
+    "demo": "https://dev.appliport.com",
+    "source": "https://www.github.com"
+  }
+]
