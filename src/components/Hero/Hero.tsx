@@ -1,5 +1,5 @@
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+// import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   return (
@@ -17,12 +17,12 @@ export const Hero = () => {
           Contact Me
         </a>
       </div>
-      <img
+      {/* <img
         src={getImageUrl("hero/yash.png")}
         alt="Hero image of me"
         className={styles.heroImg}
         style={{ maxWidth: "350px" }}
-      />
+      /> */}
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
